@@ -1,4 +1,5 @@
 # todos
+mini react project to learn the framework
 
 ## setup
 
